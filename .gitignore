@@ -3,7 +3,6 @@ node_modules/
 .cache/
 .nyc_output/
 .DS_Store
-.env*
 !.env.example
 .dev.vars
 .agent-skills.lock.md
@@ -26,7 +25,6 @@ logs/
 Thumbs.db
 
 # VS Code
-.vscode/
 .history
 
 # Project-specific
@@ -52,3 +50,7 @@ lh-*.json
 *.swp
 *.swo
 *~
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
